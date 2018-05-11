@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My card</title>
+	<link rel="stylesheet" href="./card.css">
+</head>
+<body>
+  <div class="card">
+	<div class="card-border">
+	    <h3 class="h3">Starfish</h3>
+        <img src="./starfish.jpeg" alt="image not found" class="img">
+        <div class="card-body">
+	        <p class="text">Starfish have calcified exteriors which are often covered with spines. Starfish cannot swim, but get around using their tube feet.</p>
+	        <ul class="nav">
+	        	<li><label class="label">Scientific Name:</label><span class="span">Asteroidea</span></li>
+	        	<li><label class="label">Average Length:</label><span class="span">4.7-9.4 inches</span></li>
+	            <li><label class="label">Average Lifespan:</label><span class="span">35 years</span></li>
+	            <li><label class="label">Habitat:</label><span class="span">temperate and tropical oceans</span></li>
+            </ul>
+	        <p>Starfish move using tube feet, which consists of hundreds projections on the underside of their bodies. They are used for walking and catching of the prey. Starfish do not have a brain. They also do not have blood like other animals.</p>
+	    </div>
+    </div>
+  </div>
+</body>
+</html>
